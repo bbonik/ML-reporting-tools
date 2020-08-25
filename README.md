@@ -1,7 +1,7 @@
 # ML-reporting-tools
 Library of functions for generating visually pleasing performance reports for Machine Learning models.
 
-# Examples:
+# Example reports:
 ![Example1](images/model_report.png "Model report")
 ![Example2](images/threshold_report.png "Threshold report")
 
